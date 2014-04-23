@@ -19,7 +19,7 @@ var describe = Lab.experiment;
 var it = Lab.test;
 
 
-describe('Batch', function () {
+describe('i18n', function () {
 
   var server = null;
 

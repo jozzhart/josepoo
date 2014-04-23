@@ -18,7 +18,7 @@ var describe = Lab.experiment;
 var it = Lab.test;
 
 
-describe('bassmaster', function () {
+describe('josepoo', function () {
 
     it('can be added as a plugin to hapi', function (done) {
 
