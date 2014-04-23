@@ -1,7 +1,7 @@
 {
   "name": "josepoo",
   "description": "i18n error translation plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/jozzhart/josepoo"
@@ -13,5 +13,13 @@
   },
   "peerDependencies": {
     "hapi": "3.x.x"
+  },
+  "devDependencies": {
+    "hapi": "3.x.x",
+    "sinon": "1.x.x",
+    "lab": "1.x.x"
+  },
+  "scripts": {
+    "test": "make test-cov"
   }
 }
