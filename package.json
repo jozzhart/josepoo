@@ -1,0 +1,13 @@
+{
+  "name": "josepoo",
+  "description": "i18n error translation plugin",
+  "version": "0.0.0",
+  "main": "index",
+  "dependencies": {
+    "i18n": "0.4.1",
+    "lodash": "2.4.1"
+  },
+  "peerDependencies": {
+    "hapi": "3.x.x"
+  }
+}
